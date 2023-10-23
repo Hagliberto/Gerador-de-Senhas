@@ -11,3 +11,17 @@ body {
   background-color: rgb(30, 226, 30);
 
 }
+
+.copiar-botao {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+.copiar-botao:hover {
+  background-color: #45a049;
+}
